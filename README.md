@@ -1,8 +1,7 @@
-# web-dev-starter
+# M6.2 Lab
 
-This is a starter project for web development with no frameworks and minimal
-dependencies. It is intended to be a starting point for web development projects
-that are written in plain HTML, CSS, and JavaScript.
+This is a project to use HTML, CSS, and JavaScript in order to create 
+an online template mimicking the one provided.
 
 ## Getting Started
 
